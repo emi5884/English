@@ -1,5 +1,6 @@
 ## 💬 概要
-### 好きな映画で英語を学ぶアプリ<br><br>
+### 好きな映画で英語を学ぶアプリ<br>
+※ 映画の他、TED / 洋楽 / Youtube等でも<br><br>
 
 ## 📃 使い方
 ### 1. テスト情報を登録する<br>
@@ -11,7 +12,9 @@
 ![modified](https://user-images.githubusercontent.com/98724087/151967194-e1d46c65-a71a-4fe1-a128-91e5414b5d41.gif)<br><br><br>
 ※ 長文の場合は、ピンチアウトで撮影領域を広げます。<br><br>
 ![capture-long](https://user-images.githubusercontent.com/98724087/151967102-fce026f4-9caf-498f-9389-2dfad93093e9.gif)<br><br><br>
-※ 単語を登録する場合<br><br>
+※ 単語を登録する場合<br>
+任意の単語をタップするとじしょが表示されます。<br>
+辞書で確認した単語の意味を登録します。<br><br>
 ![add-word](https://user-images.githubusercontent.com/98724087/151966906-729ab7d3-a92a-434d-8aec-b627c52220aa.gif)<br><br><br>
 
 ### 2. テストする<br>
@@ -42,13 +45,34 @@
 ## 🔧 ツールと言語
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-
+<br><br>
 ## 📝 技術
-MLKit/TextRecognition
-MLKit/Translate
-
-## 📚 ライブラリ
+以下のMLKitを使用しています。<br>
+- Text recognition ... 画像内のテキストを認識するために使用<br>
+- Translation ... 日本語翻訳のために使用<br><br>
 
 ## 🔍 リサーチ
+英語がペラペラなyoutuberの方々の勉強方法紹介動画を見てリサーチを行いました。<br><br>
+映画、ドラマ、洋楽、TED、youtubeなどを通した勉強方法を紹介されている方が多くいらっしゃいました。<br>
+その理由として、<br><br>
 
-## 🎨  デザイン
+```
+・ 楽しく続けられる
+・ 実践的な英語が学べる
+・ ネイティブの発音に慣れることができ、リスニング力&スピーキング力が向上する
+```
+
+<br>
+等があげられていました。<br>
+そして、<br><br>
+
+```
+・ スキマ時間の活用
+・ 反復
+```
+
+<br>
+の大切さも言及されていました。<br><br>
+以上を踏まえて、<br>
+映画を見ているときに覚えたいフレーズや知らない単語が出てきたらメモ代わりに字幕を撮影し、<br>
+スキマ時間で復習テストが行えるアプリをつくってみたいと思いました。
