@@ -1,3 +1,4 @@
+![main-image](https://user-images.githubusercontent.com/98724087/153336746-0210b0f9-34be-4532-9290-bcd9f80675c5.png)<br><br>
 ## 💬 概要
 ### 好きな映画で英語を学ぶアプリ<br>
 ※ 映画の他、TED / 洋楽 / Youtube等でも<br><br>
