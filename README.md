@@ -28,7 +28,7 @@
 1で登録した情報を用いて各種テストが生成されます。<br>
 テストする映画、テストの種類を選択します。<br>
 ※ テストの種類については、「テストの種類」をご覧ください。<br><br>
-![test](https://user-images.githubusercontent.com/98724087/151968516-f917ad9b-3c92-498e-9389-0f68828970d3.gif)<br><br>
+![test-new](https://user-images.githubusercontent.com/98724087/155653627-44badfdb-67ca-4028-a321-fb887524317b.gif)<br><br>
 
 ### 3. ダウンロードする
 他のユーザーが作成したテストをダウンロードしてテストを行うことが可能です。<br><br>
@@ -38,7 +38,7 @@
 ※ DEMO動画に表示される黄色いテキストは音声です
 | 種類 | DEMO | テスト方法 |
 | :-: | :-: | :-|
-|リスニング| ![listening](https://user-images.githubusercontent.com/98724087/151963980-18aa2378-8614-46a9-9ad3-aa341f4178fe.gif) | ・ 音声を聞いて回答します。 <br> ・ 正解したら左に、不正解なら右にスワイプします。(全テスト共通)<br> ・ 答えがわからない時は、答えボタンを押して答えを確認します。(全テスト共通) |
+|リスニング| ![listening-new](https://user-images.githubusercontent.com/98724087/155654082-024aa972-488f-4908-95c7-29b812d8e42d.gif) | ・ 音声を聞いて回答します。 <br> ・ 正解したら左に、不正解なら右にスワイプします。(全テスト共通)<br> ・ 答えがわからない時は、答えボタンを押して答えを確認します。(全テスト共通) |
 |スピーキング| ![speaking](https://user-images.githubusercontent.com/98724087/151964064-60e85451-9f57-4594-8b08-b19f4395a4f6.gif) | ・ 発話した英語が認識されれば、穴埋め部分に表示されます。|
 |単語| ![vocabrary](https://user-images.githubusercontent.com/98724087/151964133-2e16b37e-6b64-4101-8daf-9d3e9b1e4fa6.gif) |・音声を聞いて回答します。<br>・正解するとテキストが緑色になります。|
 |ディクテーション| ![dictaion](https://user-images.githubusercontent.com/98724087/151964223-c2cc7f9f-a38c-4a10-a01e-66c585ce7155.gif) |・音声を聞いて回答します。<br>・正解するとテキストが緑色になります。|
