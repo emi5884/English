@@ -31,7 +31,7 @@
 ![test-new](https://user-images.githubusercontent.com/98724087/155653627-44badfdb-67ca-4028-a321-fb887524317b.gif)<br><br>
 
 ### 3. ダウンロードする
-自分の勉強のために作ったテストが、他の誰かの勉強にも役だったらいいなと思い、ダウンロード機能をつけました。<br><br>
+自分の勉強のために作ったテストが他の誰かの勉強にも役だったらおもしろいと思い、ダウンロードできるようにしました。<br><br>
 ![download](https://user-images.githubusercontent.com/98724087/151967953-2473b579-820c-4f00-91b7-21bddd923261.gif)<br><br>
 
 ## 🔤 テストの種類
